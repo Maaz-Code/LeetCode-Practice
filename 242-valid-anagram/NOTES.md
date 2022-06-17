@@ -1,0 +1,1 @@
+This is an O(N) solution which is better than my O(N^2) solution where I was checking one char of first array. with all char of second array.
