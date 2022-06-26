@@ -1,0 +1,3 @@
+- From brute force, we can sort first and proceed to solution with higher time complexity.
+- So, this is a bit manipulation solution using XOR with less space and time complexity.
+- Iterating each element and doing XOR with the next one.
