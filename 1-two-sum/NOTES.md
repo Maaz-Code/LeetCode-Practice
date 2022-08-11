@@ -1,0 +1,1 @@
+This solution is in O(N^2) as nested for loops are being used. But to get the answer in O(N) we have to use HashMap.
