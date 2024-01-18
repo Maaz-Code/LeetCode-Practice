@@ -1,0 +1,1 @@
+We can insert additional numbers in array in JS as size here is not fixed. Hence, here size of the array keeps getting increased with larger n.
