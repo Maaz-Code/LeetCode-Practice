@@ -9,6 +9,7 @@ LeetCode problems and their solutions
 | [0027-remove-element](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0027-remove-element) |
 | [1256-rank-transform-of-an-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
