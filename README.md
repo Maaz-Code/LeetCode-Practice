@@ -34,6 +34,7 @@ LeetCode problems and their solutions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0022-generate-parentheses) |
+| [1013-fibonacci-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -54,4 +55,16 @@ LeetCode problems and their solutions
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
