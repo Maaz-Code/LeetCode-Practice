@@ -8,6 +8,7 @@ LeetCode problems and their solutions
 | ------- |
 | [0027-remove-element](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0035-search-insert-position) |
+| [0792-binary-search](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0792-binary-search) |
 | [1256-rank-transform-of-an-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -56,6 +57,7 @@ LeetCode problems and their solutions
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0035-search-insert-position) |
+| [0792-binary-search](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Math
 |  |
