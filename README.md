@@ -9,6 +9,7 @@ LeetCode problems and their solutions
 | [0027-remove-element](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0792-binary-search) |
 | [1256-rank-transform-of-an-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1256-rank-transform-of-an-array) |
@@ -22,6 +23,7 @@ LeetCode problems and their solutions
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [1256-rank-transform-of-an-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 ## String
@@ -50,6 +52,7 @@ LeetCode problems and their solutions
 | ------- |
 | [0027-remove-element](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
