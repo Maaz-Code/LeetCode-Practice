@@ -18,6 +18,7 @@ LeetCode problems and their solutions
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
 | [1256-rank-transform-of-an-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
@@ -33,6 +34,7 @@ LeetCode problems and their solutions
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
 | [0812-rotate-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2032-largest-odd-number-in-string) |
 | [2580-circular-sentence](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2580-circular-sentence) |
