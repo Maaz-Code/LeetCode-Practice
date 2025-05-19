@@ -15,6 +15,7 @@ LeetCode problems and their solutions
 | [1256-rank-transform-of-an-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1927-maximum-ascending-subarray-sum) |
+| [3321-type-of-triangle](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ LeetCode problems and their solutions
 | [0075-sort-colors](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [1256-rank-transform-of-an-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
+| [3321-type-of-triangle](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3321-type-of-triangle) |
 ## String
 |  |
 | ------- |
@@ -76,6 +78,7 @@ LeetCode problems and their solutions
 | ------- |
 | [1013-fibonacci-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2032-largest-odd-number-in-string) |
+| [3321-type-of-triangle](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3321-type-of-triangle) |
 ## Recursion
 |  |
 | ------- |
