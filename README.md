@@ -32,6 +32,7 @@ LeetCode problems and their solutions
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0125-valid-palindrome) |
@@ -91,4 +92,8 @@ LeetCode problems and their solutions
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2032-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
