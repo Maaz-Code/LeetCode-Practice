@@ -11,6 +11,7 @@ LeetCode problems and their solutions
 | [0035-search-insert-position](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0792-binary-search) |
 | [1256-rank-transform-of-an-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1256-rank-transform-of-an-array) |
@@ -68,6 +69,7 @@ LeetCode problems and their solutions
 | [0151-reverse-words-in-a-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 ## String Matching
@@ -80,6 +82,7 @@ LeetCode problems and their solutions
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -128,4 +131,8 @@ LeetCode problems and their solutions
 |  |
 | ------- |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
