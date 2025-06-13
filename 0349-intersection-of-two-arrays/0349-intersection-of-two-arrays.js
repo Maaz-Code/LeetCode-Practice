@@ -4,6 +4,7 @@
  * @return {number[]}
  */
 var intersection = function(nums1, nums2) {
-    let set = new Set(nums1);
-    return [...new Set(nums2)].filter(num => set.has(num));
+    let set1 = new Set(nums1);
+    let set2 = new Set(nums2);
+    return [...set1.intersection(set2)];
 };
