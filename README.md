@@ -33,6 +33,7 @@ LeetCode problems and their solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [1256-rank-transform-of-an-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -69,6 +70,7 @@ LeetCode problems and their solutions
 | [0075-sort-colors](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0202-happy-number) |
@@ -131,6 +133,7 @@ LeetCode problems and their solutions
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0908-middle-of-the-linked-list) |
@@ -142,4 +145,12 @@ LeetCode problems and their solutions
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
