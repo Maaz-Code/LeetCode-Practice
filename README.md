@@ -71,6 +71,7 @@ LeetCode problems and their solutions
 | [0027-remove-element](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0148-sort-list) |
@@ -135,6 +136,7 @@ LeetCode problems and their solutions
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0203-remove-linked-list-elements) |
