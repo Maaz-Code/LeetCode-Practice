@@ -15,6 +15,7 @@ LeetCode problems and their solutions
 | [0349-intersection-of-two-arrays](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0792-binary-search) |
+| [1019-squares-of-a-sorted-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -37,6 +38,7 @@ LeetCode problems and their solutions
 | [0075-sort-colors](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [1019-squares-of-a-sorted-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [3321-type-of-triangle](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3321-type-of-triangle) |
@@ -81,6 +83,7 @@ LeetCode problems and their solutions
 | [0287-find-the-duplicate-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 ## String Matching
 |  |
