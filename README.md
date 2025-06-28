@@ -21,6 +21,7 @@ LeetCode problems and their solutions
 | [1927-maximum-ascending-subarray-sum](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1944-truncate-sentence](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1944-truncate-sentence) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3321-type-of-triangle](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ LeetCode problems and their solutions
 | [0349-intersection-of-two-arrays](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [1256-rank-transform-of-an-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
@@ -41,6 +43,7 @@ LeetCode problems and their solutions
 | [1019-squares-of-a-sorted-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3321-type-of-triangle](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3321-type-of-triangle) |
 ## String
 |  |
@@ -163,4 +166,8 @@ LeetCode problems and their solutions
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0148-sort-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 <!---LeetCode Topics End-->
