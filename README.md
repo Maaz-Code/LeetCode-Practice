@@ -14,6 +14,7 @@ LeetCode problems and their solutions
 | [0287-find-the-duplicate-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1256-rank-transform-of-an-array) |
@@ -30,6 +31,7 @@ LeetCode problems and their solutions
 | [0202-happy-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0594-longest-harmonious-subsequence](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [1256-rank-transform-of-an-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -40,6 +42,7 @@ LeetCode problems and their solutions
 | [0075-sort-colors](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0594-longest-harmonious-subsequence](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -153,6 +156,7 @@ LeetCode problems and their solutions
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Bit Manipulation
 |  |
@@ -170,4 +174,8 @@ LeetCode problems and their solutions
 |  |
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
