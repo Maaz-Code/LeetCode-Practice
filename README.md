@@ -72,6 +72,7 @@ LeetCode problems and their solutions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0062-unique-paths) |
 | [1013-fibonacci-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
@@ -115,6 +116,7 @@ LeetCode problems and their solutions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0258-add-digits) |
@@ -196,4 +198,8 @@ LeetCode problems and their solutions
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
