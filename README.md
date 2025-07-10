@@ -114,6 +114,7 @@ LeetCode problems and their solutions
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0258-add-digits) |
