@@ -10,6 +10,7 @@ LeetCode problems and their solutions
 | [0027-remove-element](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
@@ -116,6 +117,7 @@ LeetCode problems and their solutions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0202-happy-number) |
@@ -202,4 +204,8 @@ LeetCode problems and their solutions
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
