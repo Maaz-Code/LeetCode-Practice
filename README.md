@@ -11,6 +11,7 @@ LeetCode problems and their solutions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
@@ -30,6 +31,7 @@ LeetCode problems and their solutions
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
@@ -208,4 +210,5 @@ LeetCode problems and their solutions
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
