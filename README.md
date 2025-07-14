@@ -128,6 +128,7 @@ LeetCode problems and their solutions
 | [0202-happy-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1013-fibonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2032-largest-odd-number-in-string) |
 | [3321-type-of-triangle](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -172,6 +173,7 @@ LeetCode problems and their solutions
 | [0203-remove-linked-list-elements](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Counting
 |  |
 | ------- |
