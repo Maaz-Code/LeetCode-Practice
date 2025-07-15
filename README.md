@@ -70,6 +70,7 @@ LeetCode problems and their solutions
 | [2032-largest-odd-number-in-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2032-largest-odd-number-in-string) |
 | [2580-circular-sentence](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3396-valid-word](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3396-valid-word) |
 | [3451-string-compression-iii](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3451-string-compression-iii) |
 | [3617-find-the-original-typed-string-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
