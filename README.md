@@ -29,6 +29,7 @@ LeetCode problems and their solutions
 | [1944-truncate-sentence](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1944-truncate-sentence) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [3194-find-words-containing-character](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
@@ -72,6 +73,7 @@ LeetCode problems and their solutions
 | [2032-largest-odd-number-in-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2032-largest-odd-number-in-string) |
 | [2580-circular-sentence](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3194-find-words-containing-character](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3396-valid-word) |
 | [3451-string-compression-iii](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3451-string-compression-iii) |
