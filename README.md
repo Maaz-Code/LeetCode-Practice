@@ -69,6 +69,7 @@ LeetCode problems and their solutions
 | [0151-reverse-words-in-a-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
 | [0812-rotate-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0812-rotate-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1944-truncate-sentence](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1944-truncate-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2032-largest-odd-number-in-string) |
 | [2580-circular-sentence](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2580-circular-sentence) |
