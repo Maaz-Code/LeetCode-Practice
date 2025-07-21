@@ -25,6 +25,7 @@ LeetCode problems and their solutions
 | [1256-rank-transform-of-an-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1944-truncate-sentence](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1944-truncate-sentence) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -70,6 +71,7 @@ LeetCode problems and their solutions
 | [0205-isomorphic-strings](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
 | [0812-rotate-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1944-truncate-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2032-largest-odd-number-in-string) |
 | [2580-circular-sentence](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2580-circular-sentence) |
