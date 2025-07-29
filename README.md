@@ -76,6 +76,7 @@ LeetCode problems and their solutions
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1944-truncate-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2032-largest-odd-number-in-string) |
+| [2128-reverse-prefix-of-word](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2128-reverse-prefix-of-word) |
 | [2580-circular-sentence](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3194-find-words-containing-character) |
@@ -114,6 +115,7 @@ LeetCode problems and their solutions
 | [0908-middle-of-the-linked-list](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2128-reverse-prefix-of-word](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2128-reverse-prefix-of-word) |
 ## String Matching
 |  |
 | ------- |
@@ -219,6 +221,7 @@ LeetCode problems and their solutions
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
+| [2128-reverse-prefix-of-word](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2128-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
