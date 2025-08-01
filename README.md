@@ -13,6 +13,7 @@ LeetCode problems and their solutions
 | [0048-rotate-image](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -91,6 +92,7 @@ LeetCode problems and their solutions
 | ------- |
 | [0022-generate-parentheses](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0062-unique-paths) |
+| [0118-pascals-triangle](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0118-pascals-triangle) |
 | [1013-fibonacci-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
