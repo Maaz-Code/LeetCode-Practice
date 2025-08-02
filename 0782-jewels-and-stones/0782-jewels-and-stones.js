@@ -4,10 +4,9 @@
  * @return {number}
  */
 var numJewelsInStones = function(jewels, stones) {
-    const set = new Set(jewels);
     let count = 0;
     for(let i of stones){
-        if(set.has(i)){
+        if(jewels.includes(i)){
             count++;
         }
     }
