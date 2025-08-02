@@ -45,6 +45,7 @@ LeetCode problems and their solutions
 | [0349-intersection-of-two-arrays](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
+| [0782-jewels-and-stones](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0782-jewels-and-stones) |
 | [1256-rank-transform-of-an-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -73,6 +74,7 @@ LeetCode problems and their solutions
 | [0125-valid-palindrome](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
+| [0782-jewels-and-stones](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
