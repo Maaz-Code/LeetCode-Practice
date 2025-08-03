@@ -74,6 +74,7 @@ LeetCode problems and their solutions
 | [0125-valid-palindrome](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
+| [0742-to-lower-case](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1302-delete-characters-to-make-fancy-string) |
