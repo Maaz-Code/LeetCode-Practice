@@ -150,6 +150,7 @@ LeetCode problems and their solutions
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2032-largest-odd-number-in-string) |
 | [2491-smallest-even-multiple](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2491-smallest-even-multiple) |
+| [2812-find-the-maximum-achievable-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2812-find-the-maximum-achievable-number) |
 | [3321-type-of-triangle](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
