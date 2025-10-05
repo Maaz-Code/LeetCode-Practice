@@ -227,6 +227,7 @@ LeetCode problems and their solutions
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 | [2128-reverse-prefix-of-word](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2128-reverse-prefix-of-word) |
 ## Monotonic Stack
@@ -242,4 +243,16 @@ LeetCode problems and their solutions
 | ------- |
 | [0048-rotate-image](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
