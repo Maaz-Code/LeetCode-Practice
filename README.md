@@ -13,6 +13,7 @@ LeetCode problems and their solutions
 | [0048-rotate-image](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0075-sort-colors) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
@@ -210,6 +211,7 @@ LeetCode problems and their solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -248,6 +250,7 @@ LeetCode problems and their solutions
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -258,8 +261,13 @@ LeetCode problems and their solutions
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0100-same-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
