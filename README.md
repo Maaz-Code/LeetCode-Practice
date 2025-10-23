@@ -91,6 +91,7 @@ LeetCode problems and their solutions
 | [3451-string-compression-iii](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3451-string-compression-iii) |
 | [3617-find-the-original-typed-string-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -154,6 +155,7 @@ LeetCode problems and their solutions
 | [2812-find-the-maximum-achievable-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2812-find-the-maximum-achievable-number) |
 | [3321-type-of-triangle](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
 |  |
 | ------- |
@@ -180,11 +182,13 @@ LeetCode problems and their solutions
 | ------- |
 | [0258-add-digits](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0258-add-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2491-smallest-even-multiple) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Linked List
 |  |
 | ------- |
@@ -240,6 +244,7 @@ LeetCode problems and their solutions
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0062-unique-paths) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
 |  |
 | ------- |
