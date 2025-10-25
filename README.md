@@ -150,6 +150,7 @@ LeetCode problems and their solutions
 | [0258-add-digits](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2032-largest-odd-number-in-string) |
 | [2491-smallest-even-multiple](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2491-smallest-even-multiple) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2812-find-the-maximum-achievable-number) |
