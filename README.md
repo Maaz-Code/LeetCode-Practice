@@ -22,6 +22,7 @@ LeetCode problems and their solutions
 | [0496-next-greater-element-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
+| [0724-find-pivot-index](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1256-rank-transform-of-an-array) |
@@ -281,5 +282,6 @@ LeetCode problems and their solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0724-find-pivot-index) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3616-make-array-elements-equal-to-zero) |
 <!---LeetCode Topics End-->
