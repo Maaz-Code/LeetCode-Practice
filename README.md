@@ -36,6 +36,7 @@ LeetCode problems and their solutions
 | [2876-number-of-employees-who-met-the-target](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3321-type-of-triangle) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -183,6 +184,7 @@ LeetCode problems and their solutions
 | ------- |
 | [0258-add-digits](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0258-add-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
@@ -276,4 +278,8 @@ LeetCode problems and their solutions
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3616-make-array-elements-equal-to-zero) |
 <!---LeetCode Topics End-->
