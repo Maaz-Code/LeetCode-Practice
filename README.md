@@ -36,6 +36,7 @@ LeetCode problems and their solutions
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-find-words-containing-character](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3321-type-of-triangle) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -68,6 +69,7 @@ LeetCode problems and their solutions
 | [1256-rank-transform-of-an-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3321-type-of-triangle](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3321-type-of-triangle) |
 ## String
 |  |
@@ -178,6 +180,7 @@ LeetCode problems and their solutions
 | ------- |
 | [0455-assign-cookies](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [2032-largest-odd-number-in-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2032-largest-odd-number-in-string) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3074-apple-redistribution-into-boxes) |
 ## Trie
 |  |
 | ------- |
