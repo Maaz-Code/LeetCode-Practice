@@ -83,6 +83,7 @@ LeetCode problems and their solutions
 | [0742-to-lower-case](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0812-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -126,6 +127,7 @@ LeetCode problems and their solutions
 | [0287-find-the-duplicate-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0455-assign-cookies) |
+| [0844-backspace-string-compare](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -189,6 +191,7 @@ LeetCode problems and their solutions
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0258-add-digits) |
+| [0844-backspace-string-compare](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -244,6 +247,7 @@ LeetCode problems and their solutions
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
+| [0844-backspace-string-compare](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
 | [2128-reverse-prefix-of-word](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2128-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
