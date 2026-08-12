@@ -36,6 +36,7 @@ LeetCode problems and their solutions
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-find-words-containing-character](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3194-find-words-containing-character) |
@@ -57,6 +58,7 @@ LeetCode problems and their solutions
 | [1510-find-lucky-integer-in-an-array](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1813-maximum-erasure-value) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
@@ -246,6 +248,7 @@ LeetCode problems and their solutions
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [1813-maximum-erasure-value](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1813-maximum-erasure-value) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Stack
 |  |
 | ------- |
