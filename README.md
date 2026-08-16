@@ -168,6 +168,7 @@ LeetCode problems and their solutions
 | [2491-smallest-even-multiple](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2491-smallest-even-multiple) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2812-find-the-maximum-achievable-number) |
 | [3321-type-of-triangle](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3321-type-of-triangle) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3783-mirror-distance-of-an-integer) |
@@ -304,4 +305,8 @@ LeetCode problems and their solutions
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1114-print-in-order) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
