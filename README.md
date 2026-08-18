@@ -78,6 +78,7 @@ LeetCode problems and their solutions
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3321-type-of-triangle](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3321-type-of-triangle) |
+| [3536-maximum-product-of-two-digits](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -172,6 +173,7 @@ LeetCode problems and their solutions
 | [2812-find-the-maximum-achievable-number](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2812-find-the-maximum-achievable-number) |
 | [3321-type-of-triangle](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3321-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3783-mirror-distance-of-an-integer) |
