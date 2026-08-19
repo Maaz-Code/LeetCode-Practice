@@ -33,6 +33,7 @@ LeetCode problems and their solutions
 | [1813-maximum-erasure-value](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1813-maximum-erasure-value) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1944-truncate-sentence](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1944-truncate-sentence) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -97,6 +98,7 @@ LeetCode problems and their solutions
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1944-truncate-sentence) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2032-largest-odd-number-in-string](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2032-largest-odd-number-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2128-reverse-prefix-of-word) |
 | [2580-circular-sentence](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2580-circular-sentence) |
