@@ -3,10 +3,8 @@
  * @return {number[]}
  */
 var resultArray = function(nums) {
-    let arr1 = [];
-    let arr2 = [];
-    arr1.push(nums[0]);
-    arr2.push(nums[1]);
+    let arr1 = [nums[0]];
+    let arr2 = [nums[1]];
     for(let i = 2; i < nums.length; i++){
         if(arr1[arr1.length - 1] > arr2[arr2.length - 1]){
             arr1.push(nums[i]);
