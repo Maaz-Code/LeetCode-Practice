@@ -44,6 +44,7 @@ LeetCode problems and their solutions
 | [3194-find-words-containing-character](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3321-type-of-triangle) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@ LeetCode problems and their solutions
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3731-find-missing-elements) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Maaz-Code/LeetCode-Practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
